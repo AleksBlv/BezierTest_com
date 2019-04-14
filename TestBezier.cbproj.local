@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.637,C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\TestBezierLine\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.682,=C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.637,C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\TestBezierLine\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.494,=C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.450,C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\TestBezierLine\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.309,C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\TestBezierLine\TestBezier.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.293,C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\TestBezierLine\Project1PCH1.h=C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\TestBezierLine\TestBezierPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.637,C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\TestBezierLine\Unit1.dfm</Transaction>
+    <Transaction>2019.04.14 15:59:01.089,=C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\TestBezierLine Basis 3\TestBezier.ridl</Transaction>
+    <Transaction>2019.04.14 15:59:01.120,=C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\TestBezierLine Basis 3\TestBezier_TLB.cpp</Transaction>
+    <Transaction>2019.04.14 15:59:01.323,=C:\Users\mvideo\Documents\Embarcadero\Studio\Projects\TestBezierLine Basis 3\TestLibBez777Impl.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

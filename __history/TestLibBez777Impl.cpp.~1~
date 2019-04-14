@@ -1,0 +1,49 @@
+// ---------------------------------------------------------------------------
+// TESTLIBBEZ777IMPL : Implementation of TTestLibBez777Impl (CoClass: TestLibBez777, Interface: ITestLibBez777)
+// ---------------------------------------------------------------------------
+#include <vcl.h>
+#pragma hdrstop
+
+#include "TestLibBez777Impl.h"
+
+
+// ---------------------------------------------------------------------------
+// TTestLibBez777Impl
+// ---------------------------------------------------------------------------
+__fastcall TTestLibBez777Impl::TTestLibBez777Impl()
+{
+}
+
+
+// ---------------------------------------------------------------------------
+// TTestLibBez777Impl
+// ---------------------------------------------------------------------------
+__fastcall TTestLibBez777Impl::TTestLibBez777Impl(const System::_di_IInterface Controller)
+                              : inherited(Controller)
+{
+}
+
+
+// ---------------------------------------------------------------------------
+// TTestLibBez777Impl
+// ---------------------------------------------------------------------------
+__fastcall TTestLibBez777Impl::TTestLibBez777Impl(Comobj::TComObjectFactory* Factory,
+                                      const System::_di_IInterface Controller)
+                              : inherited(Factory, Controller)
+{
+}
+
+// ---------------------------------------------------------------------------
+// TTestLibBez777Impl - Class Factory
+// ---------------------------------------------------------------------------
+static void createFactory()
+{
+  new TCppAutoObjectFactory<TTestLibBez777Impl>(Comserv::GetComServer(),
+                           __classid(TTestLibBez777Impl),
+                           CLSID_TestLibBez777,
+                           Comobj::ciMultiInstance,
+                           Comobj::tmApartment);
+}
+#pragma startup createFactory 32
+
+
